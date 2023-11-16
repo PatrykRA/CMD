@@ -1,5 +1,5 @@
 <p> Przejdź do dowolnego katalogu, w którym znajduje się co najmniej jeden podkatalog. </p>
-< img src="cmd1.PNG">
+< img src="cmd1.PNG" >
 
 <p>Wyświetl listę plików/folderów w tym katalogu, a następnie wybierz jeden folder w bieżącym katalogu roboczym.</p>
 
